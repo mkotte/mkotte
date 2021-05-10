@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**mkotte/mkotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm an aspiring Software Developer based out of 📍 `Columbus, Ohio`.
 
-Here are some ideas to get you started:
+##### BIO
+- 🔍 Currently seeking entry-level positions as a Developer
+- 🖥️ I use daily: `.js`, `.html`, `.css`, `.sql` 
+- 🎓 Ohio State Full-Stack Development Bootcamp graduate 
+- 📚 Third year student working towards my CS Degree
+- 🐕 Best Friends with my two year-old Husky named Ronin
+- 🏄 Enjoy wake surfing during the warm weather
+- 🏀 Often playing in multiple basketball leagues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW 
+- 📋 Brainstorming new project ideas
+- ⚙️ Actively updating my portfolio
+- ⚡️ Continually learning and quickly expanding my skillset
