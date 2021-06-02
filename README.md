@@ -14,4 +14,4 @@
 ##### NOW 
 - 📋 Brainstorming new project ideas
 - ⚙️ Actively updating my portfolio
-- ⚡️ Continually learning and quickly expanding my skillset
+- ⚡️ Continually learning and rapidly expanding my skillset
