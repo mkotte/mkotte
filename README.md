@@ -6,7 +6,6 @@
 - 🔍 Currently seeking entry-level positions as a Developer
 - 🖥️ I use daily: `.js`, `.html`, `.css`, `.sql` 
 - 🎓 Ohio State Full-Stack Development Bootcamp graduate 
-- 📚 Third year student working towards my CS Degree
 - 🐕 Best Friends with my two year-old Husky named Ronin
 - 🏄 Enjoy wake surfing during the warm weather
 - 🏀 Often playing in multiple basketball leagues
