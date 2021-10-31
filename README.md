@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-#### I'm an aspiring Software Developer based out of 📍 `Columbus, Ohio`.
+#### I'm an Software Developer based out of 📍 `Columbus, Ohio`.
 
 ##### BIO
-- 🔍 Currently seeking entry-level positions as a Developer
-- 🖥️ I use daily: `.js`, `.html`, `.css`, `.sql` 
+- 🖥️ I use daily: `.ts`, `.java`, `.xml`, `.html`, `.scss`, `.sql` 
 - 🎓 Ohio State Full-Stack Development Bootcamp graduate 
 - 🐕 Best Friends with my two year-old Husky named Ronin
 - 🏄 Enjoy wake surfing during the warm weather
@@ -12,5 +11,6 @@
 
 ##### NOW 
 - 📋 Brainstorming new project ideas
-- ⚙️ Actively updating my portfolio
+- ⚙️ Currently working within Angular and Java based applications
 - ⚡️ Continually learning and rapidly expanding my skillset
+- ☁️ Studying towards AWS certifications
